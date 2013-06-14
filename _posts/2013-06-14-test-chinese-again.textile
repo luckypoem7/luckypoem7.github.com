@@ -1,0 +1,6 @@
+---
+layout: post
+title: 测试中文如何
+category: misc
+---
+可输入中文吗？
